@@ -8,3 +8,4 @@ def is_prime(n):
 
 for i in range(1, 50):
     print(f"{i} is prime: {is_prime(i)}")
+#prime number
