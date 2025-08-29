@@ -1,7 +1,7 @@
 """Module to perform basic math operations and check prime numbers."""
 
 class Calculator:
-    Performs basic arithmetic operations.
+    ""Performs basic arithmetic operations"".
 
     def add(self, a: float, b: float) -> float:
         """Return the sum of two numbers."""
